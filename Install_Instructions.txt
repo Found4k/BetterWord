@@ -1,0 +1,11 @@
+
+install python from python.org (python 3.9 is the version used to write this code)
+Move the folder BetterWord to C:/temp
+Once it is in there open your command prompt or on mac and linux terminal.
+Use the command cd:/temp (On mac it is cd ~ BetterWord. If it fails try to search the internet for some answers)
+To open new document:
+Type in bwordCreateNew.py a new section should open up in the Cmd/Terminal. 
+Now you can write text.
+
+To check about:
+Type BetterWord.py
